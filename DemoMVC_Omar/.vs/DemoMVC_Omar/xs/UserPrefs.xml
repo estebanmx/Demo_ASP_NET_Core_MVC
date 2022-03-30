@@ -1,10 +1,15 @@
 ﻿<Properties StartupConfiguration="{73A3857B-10C2-4D17-BD1B-B290435681AB}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName="appsettings.json" Line="10" Column="102" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DemoMVC_Omar" expanded="True">
-            <Node name="DemoMVC_Omar" selected="True" />
+            <Node name="DemoMVC_Omar" expanded="True">
+              <Node name="appsettings.json" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
